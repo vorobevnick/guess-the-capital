@@ -1,0 +1,266 @@
+[
+  {
+    "id": 0,
+    "country": "нидерланды",
+    "capital": "амстердам",
+    "imageUrl": "img/europe/europe-1.jpg"
+  },
+  {
+    "id": 1,
+    "country": "андорра",
+    "capital": "андорра-ла-велья",
+    "imageUrl": "img/europe/europe-2.jpg"
+  },
+  {
+    "id": 2,
+    "country": "греция",
+    "capital": "афины",
+    "imageUrl": "img/europe/europe-3.jpg"
+  },
+  {
+    "id": 3,
+    "country": "сербия",
+    "capital": "белград",
+    "imageUrl": "img/europe/europe-4.jpg"
+  },
+  {
+    "id": 4,
+    "country": "германия",
+    "capital": "берлин",
+    "imageUrl": "img/europe/europe-5.jpg"
+  },
+  {
+    "id": 5,
+    "country": "швейцария",
+    "capital": "берн",
+    "imageUrl": "img/europe/europe-6.jpg"
+  },
+  {
+    "id": 6,
+    "country": "словакия",
+    "capital": "братислава",
+    "imageUrl": "img/europe/europe-7.jpg"
+  },
+  {
+    "id": 7,
+    "country": "бельгия",
+    "capital": "брюссель",
+    "imageUrl": "img/europe/europe-8.jpg"
+  },
+  {
+    "id": 8,
+    "country": "венгрия",
+    "capital": "будапешт",
+    "imageUrl": "img/europe/europe-9.jpg"
+  },
+  {
+    "id": 9,
+    "country": "румыния",
+    "capital": "бухарест",
+    "imageUrl": "img/europe/europe-10.jpg"
+  },
+  {
+    "id": 10,
+    "country": "лихтенштейн",
+    "capital": "вадуц",
+    "imageUrl": "img/europe/europe-11.jpg"
+  },
+  {
+    "id": 11,
+    "country": "мальта",
+    "capital": "валлетта",
+    "imageUrl": "img/europe/europe-12.jpg"
+  },
+  {
+    "id": 12,
+    "country": "польша",
+    "capital": "варшава",
+    "imageUrl": "img/europe/europe-13.jpg"
+  },
+  {
+    "id": 13,
+    "country": "ватикан",
+    "capital": "ватикан",
+    "imageUrl": "img/europe/europe-14.jpg"
+  },
+  {
+    "id": 14,
+    "country": "австрия",
+    "capital": "вена",
+    "imageUrl": "img/europe/europe-15.jpg"
+  },
+  {
+    "id": 15,
+    "country": "литва",
+    "capital": "Вильнюс",
+    "imageUrl": "img/europe/europe-16.jpg"
+  },
+  {
+    "id": 16,
+    "country": "ирландия",
+    "capital": "дублин",
+    "imageUrl": "img/europe/europe-17.jpg"
+  },
+  {
+    "id": 17,
+    "country": "хорватия",
+    "capital": "загреб",
+    "imageUrl": "img/europe/europe-18.jpg"
+  },
+  {
+    "id": 18,
+    "country": "украина",
+    "capital": "киев",
+    "imageUrl": "img/europe/europe-19.jpg"
+  },
+  {
+    "id": 19,
+    "country": "молдавия",
+    "capital": "кишинев",
+    "imageUrl": "img/europe/europe-20.jpg"
+  },
+  {
+    "id": 20,
+    "country": "дания",
+    "capital": "копенгаген",
+    "imageUrl": "img/europe/europe-21.jpg"
+  },
+  {
+    "id": 21,
+    "country": "португалия",
+    "capital": "лиссабон",
+    "imageUrl": "img/europe/europe-22.jpg"
+  },
+  {
+    "id": 22,
+    "country": "великобритания",
+    "capital": "лондон",
+    "imageUrl": "img/europe/europe-23.jpg"
+  },
+  {
+    "id": 23,
+    "country": "словения",
+    "capital": "любляна",
+    "imageUrl": "img/europe/europe-24.jpg"
+  },
+  {
+    "id": 24,
+    "country": "люксембург",
+    "capital": "люксембург",
+    "imageUrl": "img/europe/europe-25.jpg"
+  },
+  {
+    "id": 25,
+    "country": "испания",
+    "capital": "мадрид",
+    "imageUrl": "img/europe/europe-26.jpg"
+  },
+  {
+    "id": 26,
+    "country": "белоруссия",
+    "capital": "минск",
+    "imageUrl": "img/europe/europe-27.jpg"
+  },
+  {
+    "id": 27,
+    "country": "монако",
+    "capital": "монако",
+    "imageUrl": "img/europe/europe-28.jpg"
+  },
+  {
+    "id": 28,
+    "country": "россия",
+    "capital": "москва",
+    "imageUrl": "img/europe/europe-29.jpg"
+  },
+  {
+    "id": 29,
+    "country": "норвегия",
+    "capital": "осло",
+    "imageUrl": "img/europe/europe-30.jpg"
+  },
+  {
+    "id": 30,
+    "country": "франция",
+    "capital": "париж",
+    "imageUrl": "img/europe/europe-31.jpg"
+  },
+  {
+    "id": 31,
+    "country": "черногория",
+    "capital": "подгорица",
+    "imageUrl": "img/europe/europe-32.jpg"
+  },
+  {
+    "id": 32,
+    "country": "чехия",
+    "capital": "прага",
+    "imageUrl": "img/europe/europe-33.jpg"
+  },
+  {
+    "id": 33,
+    "country": "исландия",
+    "capital": "рейкьявик",
+    "imageUrl": "img/europe/europe-34.jpg"
+  },
+  {
+    "id": 34,
+    "country": "латвия",
+    "capital": "рига",
+    "imageUrl": "img/europe/europe-35.jpg"
+  },
+  {
+    "id": 35,
+    "country": "италия",
+    "capital": "рим",
+    "imageUrl": "img/europe/europe-36.jpg"
+  },
+  {
+    "id": 36,
+    "country": "сан-Марино",
+    "capital": "сан-Марино",
+    "imageUrl": "img/europe/europe-37.jpg"
+  },
+  {
+    "id": 37,
+    "country": "босния и герцеговина",
+    "capital": "сараево",
+    "imageUrl": "img/europe/europe-38.jpg"
+  },
+  {
+    "id": 38,
+    "country": "македония",
+    "capital": "скопье",
+    "imageUrl": "img/europe/europe-39.jpg"
+  },
+  {
+    "id": 39,
+    "country": "болгария",
+    "capital": "софия",
+    "imageUrl": "img/europe/europe-40.jpg"
+  },
+  {
+    "id": 40,
+    "country": "швеция",
+    "capital": "стокгольм",
+    "imageUrl": "img/europe/europe-41.jpg"
+  },
+  {
+    "id": 41,
+    "country": "эстония",
+    "capital": "таллин",
+    "imageUrl": "img/europe/europe-42.jpg"
+  },
+  {
+    "id": 42,
+    "country": "албания",
+    "capital": "тирана",
+    "imageUrl": "img/europe/europe-43.jpg"
+  },
+  {
+    "id": 43,
+    "country": "финляндия",
+    "capital": "хельсинки",
+    "imageUrl": "img/europe/europe-44.jpg"
+  }
+]

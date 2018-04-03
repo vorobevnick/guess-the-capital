@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>Угадай столицу</title>
+</head>
+
+<body>
+
+<div class="country" data-component="block-game">
+    <h2 class="country__header" data-element="header">Угадай столицу</h2>
+
+    <div class="country__img">
+        <img name="img" src="../img/logo.jpg" alt="Угадай столицу" data-element="image">
+    </div>
+
+    <div class="control">
+        <input type="button" class="button" value="Старт" data-element="button">
+    </div>
+
+    <div class="answer" data-element="answer"></div>
+    <div class="letters" data-element="letters"></div>
+
+    <div class="score js-hidden" data-element="score">
+        <div>Счет раунда: <span data-element="scoreRound"></span></div>
+        <div>Итоговый счет: <span data-element="totalScore"></span></div>
+    </div>
+</div>
+
+<script src="build.js"></script>
+</body>
+</html>
